@@ -1,0 +1,21 @@
+ID,Name,Age,Department,Salary,Location,StartDate,Remote
+1,Alice,28,Engineering,70000,New York,1/31/2022,TRUE
+2,Bob,34,Marketing,55000,Los Angeles,2/28/2022,FALSE
+3,Charlie,29,Sales,50000,Chicago,3/31/2022,FALSE
+4,David,41,Engineering,82000,Boston,4/30/2022,TRUE
+5,Eve,,HR,48000,San Francisco,5/31/2022,TRUE
+6,Frank,30,Marketing,60000,Seattle,6/30/2022,FALSE
+7,Grace,35,Sales,58000,Houston,7/31/2022,FALSE
+8,Hannah,27,HR,49000,Miami,8/31/2022,TRUE
+9,Ian,32,Engineering,75000,Denver,9/30/2022,TRUE
+10,Jane,38,Marketing,62000,Atlanta,10/31/2022,FALSE
+11,Kevin,,HR,51000,Orlando,11/30/2022,FALSE
+12,Laura,33,Sales,53000,Phoenix,12/31/2022,TRUE
+13,Mike,31,Engineering,76000,Dallas,1/31/2023,TRUE
+14,Nina,29,Marketing,54000,Austin,2/28/2023,FALSE
+15,Oscar,,Sales,52000,Portland,3/31/2023,TRUE
+16,Paula,24,HR,47000,San Diego,4/30/2023,TRUE
+17,Quinn,36,Engineering,78000,Detroit,5/31/2023,FALSE
+18,Rachel,37,Sales,59000,Philadelphia,6/30/2023,TRUE
+19,Steve,39,Marketing,61000,Baltimore,7/31/2023,FALSE
+20,Tina,23,HR,46000,Nashville,8/31/2023,TRUE
